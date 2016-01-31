@@ -1,6 +1,6 @@
 {
   "name": "@broucz/compose-single",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Composes single-argument functions from right to left",
   "main": "./lib/index.js",
   "scripts": {
